@@ -1,6 +1,7 @@
 # My Introduction:
 
-I like chewing gums. 
+I'm Anmol Rajput
+I like chewing gums :) 
 
 ## Progress till now:
 
