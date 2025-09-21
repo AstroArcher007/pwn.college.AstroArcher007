@@ -14,3 +14,10 @@ I like chewing gums :)
 - [ ] File Globbing
 - [ ] Practicing Piping
 - [ ] Shell Variables
+- [ ] Data Manipulation
+- [ ] Processes and Jobs
+- [ ] Untangling Users
+- [ ] Perceiving Permissions
+- [ ] Chaining Commands
+- [ ] Terminal Multiplexing
+- [ ] Pondering PATH
