@@ -8,7 +8,7 @@ I like chewing gums :)
 ### Current Dojo: Linux Luminarium 🐧
 
 - [x] Hello Hackers
-- [ ] Pondering Paths
+- [x] Pondering Paths
 - [ ] Comprehending Commands
 - [ ] Digesting Documentation
 - [ ] File Globbing
