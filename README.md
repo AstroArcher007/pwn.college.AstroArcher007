@@ -9,8 +9,8 @@ I like chewing gums :)
 
 - [x] Hello Hackers
 - [x] Pondering Paths
-- [ ] Comprehending Commands
-- [ ] Digesting Documentation
+- [x] Comprehending Commands
+- [x] Digesting Documentation
 - [ ] File Globbing
 - [ ] Practicing Piping
 - [ ] Shell Variables
