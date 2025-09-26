@@ -11,7 +11,7 @@ I like chewing gums :)
 - [x] Pondering Paths
 - [x] Comprehending Commands
 - [x] Digesting Documentation
-- [ ] File Globbing
+- [x] File Globbing
 - [ ] Practicing Piping
 - [ ] Shell Variables
 - [ ] Data Manipulation
