@@ -12,9 +12,9 @@ I like chewing gums :)
 - [x] Comprehending Commands
 - [x] Digesting Documentation
 - [x] File Globbing
-- [ ] Practicing Piping
-- [ ] Shell Variables
-- [ ] Data Manipulation
+- [x] Practicing Piping
+- [x] Shell Variables
+- [x] Data Manipulation
 - [ ] Processes and Jobs
 - [ ] Untangling Users
 - [ ] Perceiving Permissions
