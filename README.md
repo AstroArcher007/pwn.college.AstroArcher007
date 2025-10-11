@@ -15,8 +15,8 @@ I like chewing gums :)
 - [x] Practicing Piping
 - [x] Shell Variables
 - [x] Data Manipulation
-- [ ] Processes and Jobs
-- [ ] Untangling Users
+- [x] Processes and Jobs
+- [x] Untangling Users
 - [ ] Perceiving Permissions
 - [ ] Chaining Commands
 - [ ] Terminal Multiplexing
